@@ -1,1 +1,10 @@
-<h1> Wozza Wozza</h1>
+
+export default function Home() {
+  return (
+ <>
+  <div>
+    <h1> Hello World</h1>
+    </div>
+    </>
+  );
+}
